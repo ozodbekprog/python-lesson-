@@ -70,13 +70,13 @@
 # print(ism_sharif)
 
 
-meva ="      olma      "
-print(txt = "men " + meva.lstrip() + "yahshi korman.  lsrtip() metodi")
-print(txt2 = "men " + meva.rstrip() + "yahshi korman.  rstrip() metodi")
-print(txt3 = "men " + meva.strip() + "yahshi korman.   strip() metodi")
-print(txt4 = "men " + meva + "yashi korman.           no metod ")
+# meva ="      olma      "
+# print(txt = "men " + meva.lstrip() + "yahshi korman.  lsrtip() metodi")
+# print(txt2 = "men " + meva.rstrip() + "yahshi korman.  rstrip() metodi")
+# print(txt3 = "men " + meva.strip() + "yahshi korman.   strip() metodi")
+# print(txt4 = "men " + meva + "yashi korman.           no metod ")
 
-print(txt2.cout("yahshi"))
+# print(txt.cout("yahshi"))
 
 # txt = "I love apples, apple are my favorite fruit"
 
