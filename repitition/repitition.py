@@ -103,7 +103,7 @@ print("5 ta son kiritng")
 # son1 = list(range(0,32,1))
 sanash = int(input("son kiriting"))
 son1 = list(range(0,sanash+1,1))
-# for d in range(len(son1)):
+# for d in range(len(son1)):d
 #   son2.append(son1[d]*2)
 #   # print(son2)
 # print(f"kiritlgan sonlar{son1} va shu sionlarning 2 ga kopaytmasi {son2}")
